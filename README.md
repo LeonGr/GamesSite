@@ -10,4 +10,4 @@ Includes:
 - Falldown (self invented)
 - A platformer game
 
-view it here: leon.gripbv.nl/gbl
+view it here: http://leon.gripbv.nl/gbl
